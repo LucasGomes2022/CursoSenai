@@ -12,6 +12,10 @@ namespace banco
 {
     public partial class Form1 : Form
     {
+        int saldo = 100;
+        int deposito = 100;
+        int saque = 10;
+
         public Form1()
         {
             InitializeComponent();
@@ -19,17 +23,29 @@ namespace banco
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int numeroConta = 123;
-            double saldo = 100;
-            double saque = 10;
-            float deposito = 100;
-
-
-            saldo -= saque;
+            //Depositar
             saldo += deposito;
+            MessageBox.Show("Foi depostitado " + deposito);
+        }
 
-            MessageBox.Show("O valor do saldo atual é: " + saldo + " Numero conta :" + numeroConta);
-            
+        private void button2_Click(object sender, EventArgs e)
+        {
+            // Saque
+            saldo -= saque;
+            MessageBox.Show("Foi sacado " + saque);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            // Ver Saldo
+            MessageBox.Show("Saldo Atual: " + saldo);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            // numero da conta
+            int numeroConta = 123;
+            MessageBox.Show("Numero da conta: " + numeroConta);
         }
     }
 }
