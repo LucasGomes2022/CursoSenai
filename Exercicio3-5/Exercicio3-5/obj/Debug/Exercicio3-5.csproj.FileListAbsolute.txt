@@ -1,0 +1,11 @@
+C:\Users\DTI\Desktop\CursoSenai\Exercicio3-5\Exercicio3-5\bin\Debug\Exercicio3-5.exe.config
+C:\Users\DTI\Desktop\CursoSenai\Exercicio3-5\Exercicio3-5\bin\Debug\Exercicio3-5.exe
+C:\Users\DTI\Desktop\CursoSenai\Exercicio3-5\Exercicio3-5\bin\Debug\Exercicio3-5.pdb
+C:\Users\DTI\Desktop\CursoSenai\Exercicio3-5\Exercicio3-5\obj\Debug\Exercicio3-5.csproj.AssemblyReference.cache
+C:\Users\DTI\Desktop\CursoSenai\Exercicio3-5\Exercicio3-5\obj\Debug\Exercicio3-5.csproj.SuggestedBindingRedirects.cache
+C:\Users\DTI\Desktop\CursoSenai\Exercicio3-5\Exercicio3-5\obj\Debug\Exercicio3_5.Form1.resources
+C:\Users\DTI\Desktop\CursoSenai\Exercicio3-5\Exercicio3-5\obj\Debug\Exercicio3_5.Properties.Resources.resources
+C:\Users\DTI\Desktop\CursoSenai\Exercicio3-5\Exercicio3-5\obj\Debug\Exercicio3-5.csproj.GenerateResource.cache
+C:\Users\DTI\Desktop\CursoSenai\Exercicio3-5\Exercicio3-5\obj\Debug\Exercicio3-5.csproj.CoreCompileInputs.cache
+C:\Users\DTI\Desktop\CursoSenai\Exercicio3-5\Exercicio3-5\obj\Debug\Exercicio3-5.exe
+C:\Users\DTI\Desktop\CursoSenai\Exercicio3-5\Exercicio3-5\obj\Debug\Exercicio3-5.pdb

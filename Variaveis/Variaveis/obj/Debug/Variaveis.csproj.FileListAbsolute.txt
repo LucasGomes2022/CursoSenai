@@ -1,0 +1,11 @@
+C:\Users\DTI\Desktop\CursoSenai\Variaveis\Variaveis\bin\Debug\Variaveis.exe.config
+C:\Users\DTI\Desktop\CursoSenai\Variaveis\Variaveis\bin\Debug\Variaveis.exe
+C:\Users\DTI\Desktop\CursoSenai\Variaveis\Variaveis\bin\Debug\Variaveis.pdb
+C:\Users\DTI\Desktop\CursoSenai\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.AssemblyReference.cache
+C:\Users\DTI\Desktop\CursoSenai\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\DTI\Desktop\CursoSenai\Variaveis\Variaveis\obj\Debug\Variaveis.Form1.resources
+C:\Users\DTI\Desktop\CursoSenai\Variaveis\Variaveis\obj\Debug\Variaveis.Properties.Resources.resources
+C:\Users\DTI\Desktop\CursoSenai\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.GenerateResource.cache
+C:\Users\DTI\Desktop\CursoSenai\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\DTI\Desktop\CursoSenai\Variaveis\Variaveis\obj\Debug\Variaveis.exe
+C:\Users\DTI\Desktop\CursoSenai\Variaveis\Variaveis\obj\Debug\Variaveis.pdb
