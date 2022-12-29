@@ -14,7 +14,7 @@ namespace banco
     {
         int saldo = 100;
         int deposito = 100;
-        int saque = 10;
+        int saque = 101;
 
         public Form1()
         {
@@ -31,9 +31,15 @@ namespace banco
         private void button2_Click(object sender, EventArgs e)
         {
             // Saque
-            saldo -= saque;
-            MessageBox.Show("Foi sacado " + saque);
-        }
+            if (saldo >= saque) {
+                saldo -= saque;
+                MessageBox.Show("Foi sacado " + saque);
+            }
+            else
+            {
+                MessageBox.Show("Saldo Insuficiente!");
+            }
+        }       // Resposta é: Saque realizado com sucesso; saldo 90.0
 
         private void button3_Click(object sender, EventArgs e)
         {
